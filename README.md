@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Pan Yue.
+A PhD student studying at Shandong University with a research focus on code generation.
 
 <!--
 **YuePan3/YuePan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
